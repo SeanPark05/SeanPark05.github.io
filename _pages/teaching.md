@@ -7,4 +7,4 @@ permalink: /teaching/
 
 ## Course
 
-* CHEG401 Process Dynamics and Control (Instructor: Professor Abraham M. Lenhoff)
+* Fall 2017: CHEG401 Process Dynamics and Control (Instructor: Professor Abraham M. Lenhoff)
