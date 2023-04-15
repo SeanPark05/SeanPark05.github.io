@@ -30,11 +30,11 @@ iframe {
 }
 </style>
 
-## Research
+### Research
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+<h4>We design heterogeneous catalysts.</h4>
 
 Example description
 </div>

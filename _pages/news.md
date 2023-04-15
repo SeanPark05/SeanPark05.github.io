@@ -5,7 +5,7 @@ sitemap: false
 permalink: /news.html
 ---
 
-## News
+### News
 
 <div class="jumbotron">
 {% for article in site.data.news %}
