@@ -10,6 +10,6 @@ permalink: /news.html
 <div class="jumbotron">
 {% for article in site.data.news %}
 * <b>{{ article.date }}</b>
-{{ article.headline }}
+ &nasp;{{ article.headline }}
 {% endfor %}
 </div>
