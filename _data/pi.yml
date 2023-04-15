@@ -1,21 +1,20 @@
-- name: Dr. Richard Feynman
+- name: Dr. Seyeon Park
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  info: Postdoctoral Research Associate, University of Pennsylvania
+  email: philosspark@gmail.com
+  scholar: https://scholar.google.com/citations?user=Vk3_iOgAAAAJ&hl=en&oi=ao
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  number_educ: 3
+  education1: "2023 Ph.D. Materials Science and Engineering, Korea Advanced Institute of Science and Technology"
+  education2: "2017 M.ChE. Chemical and Biomolecular Engineering, University of Delaware"
+  education3: "2016 B.S. Chemical Engineering, Hanyang University"
   # education3: 
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
+  education1short: 2023 Ph.D. MSE, KAIST
+  education2short: 2017 M.ChE. CBE, Univ. Delaware
+  education3short: 2010 B.S. ChemE, Hanyang Univ.
   # education3short: 
   # education4short: 
   # education5short: 
