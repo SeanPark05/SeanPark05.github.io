@@ -1,8 +1,8 @@
 ---
-title: "Talks"
+title: "Gallery"
 layout: gridlay
 sitemap: false
-permalink: /talks/
+permalink: /gallery/
 ---
 
 <style>
