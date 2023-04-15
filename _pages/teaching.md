@@ -7,6 +7,7 @@ permalink: /teaching/
 
 ## Teaching
 
-* Introduction to Physics (1961--63) [Textbook here!](https://www.feynmanlectures.caltech.edu/)
+* CHEG 401 Process Dynamics and Control (UD, 2017)
+
 
 
