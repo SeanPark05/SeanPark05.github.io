@@ -1,5 +1,16 @@
 <div>
 {% for member in site.data.pi %}
+<style>
+  .jumbotron{
+      padding:3%;
+      padding-bottom:10px;
+      padding-top:20px;
+      margin-top:10px;
+      margin-bottom:30px;
+      background-color: #252829;
+      color: #b0ada8;
+  }
+  </style>
 <div class="jumbotron">
    <center>
    <a href="{{site.url}}{{site.baseurl}}/about"><img src="{{site.url}}{{site.baseurl}}/images/{{ member.photo }}" width="60%" style="block:inline; margin-left:auto; margin-right:auto; margin-bottom:5px;"/></a>
