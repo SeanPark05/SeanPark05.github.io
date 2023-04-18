@@ -1,6 +1,8 @@
 - name: Dr. Seyeon Park
   photo: colorprofile.jpg
-  info: Postdoctoral Research Associate, University of Pennsylvania
+  position: Postdoctoral Research Associate
+  affiliation: Chemical and Biomolecular Engineering, University of Pennsylvania
+  advisors: Professors John Vohs, Raymond Gorte, and Daeyeon Lee
   email: philosspark@gmail.com
   scholar: https://scholar.google.com/citations?user=Vk3_iOgAAAAJ&hl=en&oi=ao
   # Change the number below to the number of "educations" you have (up to 6)

@@ -28,6 +28,15 @@ iframe {
   display: inline;
   vertical-align: middle;
 }
+.jumbotron{
+    padding:3%;
+    padding-bottom:10px;
+    padding-top:10px;
+    margin-top:10px;
+    margin-bottom:30px;
+    background-color: #252829;
+    color: #b0ada8;
+}
 </style>
 
 ### Research

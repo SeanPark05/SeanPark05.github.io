@@ -18,10 +18,12 @@ permalink: /news.html
 
 ### News
 
-
 <div class="jumbotron">
 {% for article in site.data.news %}
-* <b>{{ article.date }}</b>
+
+* <span style="font-size: 120%"><b>{{ article.date }}</b>   
 {{ article.headline }}
+</span>
 {% endfor %}
+
 </div>
