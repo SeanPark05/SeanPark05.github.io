@@ -84,7 +84,7 @@ Hot Topics: Photocatalysis; Back cover-featured</span>
 
 <h4><u><b>2021</b></u></h4>
 <span style="font-size: 120%">
-6\. <span style="color: #F2E4C9"><b>Seyeon Park</b></span>, Peresi Bulemo, Won-Tae Koo, Jaehyun Ko, and Il=Doo Kim.   
+6\. <span style="color: #F2E4C9"><b>Seyeon Park</b></span>, Peresi Bulemo, Won-Tae Koo, Jaehyun Ko, and Il-Doo Kim.   
 "Chemiresistive acetylene sensor fabricated from Ga-doped ZnO nanofibers functionalized with Pt catalysts."   
 <b><i>Sensors and Actuators B: Chemical</i></b>, 2021, 343, 130137.
 
@@ -161,7 +161,7 @@ Nano Korea 2022 Symposium @ Ilsan, Republic of Korea (July 2022).
 <span style="font-size: 120%">
 8\. Minhyun Kim<sup>&</sup>, <span style="color: #F2E4C9"><b>Seyeon Park<sup>&</sup></b></span>, and Il-Doo Kim.     
 "Heterogeneous sensitization of perovskite oxide nanofibers using metal-organic framework-mediated oxides for enhanced acetone sensing."   
-2022 Fall Conference of the Korean Sensors Society @ Yeosu, Republic of Korea (August 2022). <span style="color: #69B2FF">Best Presentation paper Award</span> 
+2022 Fall Conference of the Korean Sensors Society @ Yeosu, Republic of Korea (August 2022).
 
 <span style="font-size: 120%">
 7\. <span style="color: #F2E4C9"><b>Seyeon Park</b></span>, and Il-Doo Kim.     
@@ -176,7 +176,7 @@ Nano Korea 2022 Symposium @ Ilsan, Republic of Korea (July 2022). <span style="c
 <span style="font-size: 120%">
 5\. Minhyun Kim<sup>&</sup>, <span style="color: #F2E4C9"><b>Seyeon Park<sup>&</sup></b></span>, and Il-Doo Kim.   
 "Strategies to Improve Sensing Ability of Perovskite Oxide Gas Sensor."   
-Nano Korea 2022 Symposium @ Ilsan, Republic of Korea (July 2022). <span style="color: #69B2FF">Grand Prize</span> 
+Nano Korea 2022 Symposium @ Ilsan, Republic of Korea (July 2022).
 
 <span style="font-size: 120%">
 4\. <span style="color: #F2E4C9"><b>Seyeon Park</b></span>, DongHwan Oh, WooChul Jung, and Il-Doo Kim.   
@@ -195,8 +195,8 @@ Nano Korea 2022 Symposium @ Ilsan, Republic of Korea (July 2022). <span style="c
 
 <span style="font-size: 120%">
 1\. <span style="color: #F2E4C9"><b>Seyeon Park</b></span>, Jaewan Ahn, Dong-Ha Kim, and Il-Doo Kim.   
-"Ex-solution from metal-organic framework-mediated oxide scaffold for highly sensitive acetone sensors."
-2022 Fall Conference of the Korean Sensors Society @ Yeosu, Republic of Korea (August 2022). <span style="color: #69B2FF">Best Presentation paper Award</span> 
+"Ex-solution from metal-organic framework-mediated oxide scaffold for highly sensitive acetone sensors."   
+2021 Fall Conference of the Korean Sensors Society @ Gangneung, Republic of Korea (October 2021). <span style="color: #69B2FF">Best Presentation paper Award</span> 
 
 
 
