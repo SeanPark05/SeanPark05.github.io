@@ -4,7 +4,17 @@ layout: gridlay
 sitemap: false
 permalink: /about/
 ---
-
+<style>
+.jumbotron{
+    padding:3%;
+    padding-bottom:10px;
+    padding-top:20px;
+    margin-top:10px;
+    margin-bottom:30px;
+    background-color: #252829;
+    color: #b0ada8;
+}
+</style>
 ### About 
 
 {% for member in site.data.pi %}
