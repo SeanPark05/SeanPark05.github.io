@@ -22,8 +22,10 @@ permalink: /publications/
 <h4>&: Equal contribution</h4>
 
 <div class="col-sm-12">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/MOF ex-sol.jpg" width="100%" style="max-width:350px"/>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/TiOx-In2O3.jpg" width="100%" style="max-width:350px"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/TiOx-In2O3.jpg" width="100%" style="max-width:300px"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/MOF ex-sol.jpg" width="100%" style="max-width:300px"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/IPL.jpg" width="100%" style="max-width:300px"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/cMOF.jpg" width="100%" style="max-width:300px"/>
 </div>
 
 <div class="jumbotron">
