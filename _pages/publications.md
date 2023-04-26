@@ -23,7 +23,7 @@ permalink: /publications/
 
 <div class="col-sm-12">
   <img src="{{ site.url }}{{ site.baseurl }}/images/MOF ex-sol.jpg" width="100%" style="max-width:350px"/>
- 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/TiOx-In2O3.jpg" width="100%" style="max-width:350px"/>
 </div>
 
 <div class="jumbotron">
