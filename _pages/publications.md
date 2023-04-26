@@ -57,7 +57,7 @@ permalink: /publications/
 <span style="font-size: 120%">
 11\. <span style="color: #F2E4C9"><b>Seyeon Park</b></span>, Seonghyun Jeon, James Philips, DongHwan Oh, Jaewan Ahn, Minhyun Kim, Chungseong Park, Seungbum Hong, Jihan Kim, WooChul Jung, and Il-Doo Kim.   
 "Imparting metal oxides with high sensitivity toward light-activated NO2 detection via tailored interfacial chemistry."   
-<b><i>Advanced Functional Materials</i></b>, 2023, 33(15), 2214008. <span style="color: #69B2FF">   
+<b><i>Advanced Functional Materials</i></b>, 2023, 33(17), 2214008. <span style="color: #69B2FF">   
 Hot Topics: Photocatalysis; Back cover-featured</span>   
 
 <span style="font-size: 120%">
