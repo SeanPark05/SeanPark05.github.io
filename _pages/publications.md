@@ -80,7 +80,7 @@ Hot Topics: Photocatalysis; Back cover-featured</span>
 <span style="font-size: 120%">
 8\. Euichul Shin, Dong-Ha Kim, Jun-Hwe Cha, Seolwon Yun, Hamin Shin, Jaewan Ahn, Ji-Soo Jang, Jong Won Baek, Chungseong Park, Jaehyun Ko, <span style="color: #F2E4C9"><b>Seyeon Park</b></span>, Sung-Yool Choi, and Il-Doo Kim   
 "Ultra-fast ambient ex-solution on metal oxide via transient photothermal effect."   
-<b><i>ACS Nano</i></b>, 2022, 16(11), 18133-18142.
+<b><i>ACS Nano</i></b>, 2022, 16(11), 18133-18142. <span style="color: #69B2FF">Supplementary cover-featured</span>  
 
 <span style="font-size: 120%">
 7\. Jong Won Baek, Yoon Hwa Kim, Jaewan Ahn, Dong-Ha Kim, Hamin Shin, Jaehyun Ko, <span style="color: #F2E4C9"><b>Seyeon Park</b></span>, Chungseong Park, Euichul Shin, Ji-Soo Jang and Il-Doo Kim    
