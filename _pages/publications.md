@@ -21,8 +21,9 @@ permalink: /publications/
 <h3>Journal articles</h3>
 <h4>&: Equal contribution</h4>
 
-<div class="col-sm-4">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/MOF ex-sol.jpg" width="100%" style="max-width:250px"/>
+<div class="col-sm-12">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/MOF ex-sol.jpg" width="100%" style="max-width:350px"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/TiOx-In2O3.jpg" width="100%" style="max-width:350px"/>
 </div>
 
 <div class="jumbotron">
