@@ -55,7 +55,7 @@ permalink: /publications/
 <span style="font-size: 120%">
 13\. Jaewan Ahn<sup>&</sup>, <span style="color: #F2E4C9"><b>Seyeon Park<sup>&</sup></b></span>, DongHwan Oh, Yunsung Lim, Jong Seok Nam, Jihan Kim, WooChul Jung, and Il-Doo Kim   
 "High-entropy alloy nanoparticles socketed in an oxide overlayer as an ultra-stable thermocatalyst for CO<sub>2</sub> conversion."   
-<b><i>ACS Nano</i></b>, Accepted.   
+<b><i>ACS Nano</i></b>, 2023, 17*13), 12188-12199.   
 
 <span style="font-size: 120%">
 12\. Dong-Ha Kim, Jun Kyu Kim, DongHwan Oh, <span style="color: #F2E4C9"><b>Seyeon Park</b></span>, Yong Beom Kim, Jaehyun Ko, WooChul Jung, and Il-Doo Kim   
