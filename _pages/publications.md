@@ -48,6 +48,13 @@ permalink: /publications/
 ** <span style="color: #F2E4C9"><b>Park<sup>&</sup></b></span> and Kim<sup>&</sup> et al.   
 "Modulating redox activity of NiFe2O4 with CeO2 toward highly active and stable hydrogen production via chemical looping."   
 
+<span style="font-size: 120%">
+** <span style="color: #F2E4C9"><b>Park<sup>&</sup></b></span>, Kim<sup>&</sup>, Lee<sup>&</sup> and Kwon<sup>&</sup> et al.   
+"micro LED and deep learning-based gas identification.."   
+
+<span style="font-size: 120%">
+** <span style="color: #F2E4C9"><b>Park<sup>&</sup></b></span>, Woo<sup>&</sup>, and Kim<sup>&</sup> et al.   
+"Phase transition, high-entropy alloy.."   
 
    
 <h4><u><b>2023</b></u></h4>
@@ -55,7 +62,7 @@ permalink: /publications/
 <span style="font-size: 120%">
 13\. Jaewan Ahn<sup>&</sup>, <span style="color: #F2E4C9"><b>Seyeon Park<sup>&</sup></b></span>, DongHwan Oh, Yunsung Lim, Jong Seok Nam, Jihan Kim, WooChul Jung, and Il-Doo Kim   
 "High-entropy alloy nanoparticles socketed in an oxide overlayer as an ultra-stable thermocatalyst for CO<sub>2</sub> conversion."   
-<b><i>ACS Nano</i></b>, 2023, 17*13), 12188-12199.   
+<b><i>ACS Nano</i></b>, 2023, 17(13), 12188-12199.   
 
 <span style="font-size: 120%">
 12\. Dong-Ha Kim, Jun Kyu Kim, DongHwan Oh, <span style="color: #F2E4C9"><b>Seyeon Park</b></span>, Yong Beom Kim, Jaehyun Ko, WooChul Jung, and Il-Doo Kim   
